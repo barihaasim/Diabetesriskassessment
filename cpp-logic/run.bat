@@ -1,0 +1,1 @@
+g++ -o diabetes_tool diabetes_tool.cpp

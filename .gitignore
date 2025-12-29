@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# React build output
+build/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# C++ build files
+*.o
+*.exe
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
